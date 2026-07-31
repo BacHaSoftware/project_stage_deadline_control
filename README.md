@@ -40,7 +40,7 @@
 
 <div align="left">
   <a href="https://github.com/BacHaSoftware/project_stage_deadline_control">
-    <img src="/bhs_project_stage_deadline/static/description/banner.jpg" alt="Project Stage Deadline Control">
+    <img src="/bhs_project_stage_deadline/static/description/banner.png" alt="Project Stage Deadline Control">
   </a>
   <div align="center">Project Stage Deadline Control </div>
 </div>
