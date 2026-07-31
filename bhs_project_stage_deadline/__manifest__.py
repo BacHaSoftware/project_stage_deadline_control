@@ -1,8 +1,8 @@
 {
     'name': 'Project Stage Deadline Control',
-    'version': '1.0',
-    'summary': "Custom stage task",
-    'description': 'Custom stage task',
+    'version': '19.0.0',
+    'summary': 'Control task deadline visibility by project stage',
+    'description': 'Show or hide deadlines on task Kanban cards according to the current project stage.',
     'author': 'Bac Ha Software',
     'website': 'https://bachasoftware.com/',
     'depends': ['project'],
@@ -10,7 +10,7 @@
         'views/project_task_views.xml',
         'views/task_stage_views.xml',
     ],
-'assets': {
+    'assets': {
         'web.assets_frontend': [],
     },
     'external_dependencies': {

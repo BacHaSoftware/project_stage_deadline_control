@@ -9,4 +9,4 @@ class BHSProjectTaskType(models.Model):
 class BHSProjectTask(models.Model):
     _inherit = 'project.task'
 
-    is_show_deadline = fields.Boolean(string='Show Deadline', related='stage_id.is_show_deadline', default=True)
+    is_show_deadline = fields.Boolean(string='Show Deadline', related='stage_id.is_show_deadline')
