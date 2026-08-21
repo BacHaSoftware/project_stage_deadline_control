@@ -10,13 +10,13 @@
         'views/project_task_views.xml',
         'views/task_stage_views.xml',
     ],
-'assets': {
+    'assets': {
         'web.assets_frontend': [],
     },
     'external_dependencies': {
         'python': [],
     },
-    'images': [],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
     'license': 'LGPL-3'
